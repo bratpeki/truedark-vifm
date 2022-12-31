@@ -1,3 +1,7 @@
+" A true dark theme. For Vifm. Duh.
+" by bratpeki (@GitHub)
+" https://github.com/bratpeki/truedark-vifm
+
 highlight clear
 
 highlight Border     ctermfg=238 ctermbg=248 cterm=none

@@ -8,4 +8,4 @@ truedark-vifm is a colorscheme for Vifm. It is largely inspired by [truedark-vim
 truedark-vifm is installed manually into `$HOME/.config/vifm/colors`.
 
 ## Showcase:
-![truedark](./img/ex.jpg)
+![truedark](./img/ex.png)
